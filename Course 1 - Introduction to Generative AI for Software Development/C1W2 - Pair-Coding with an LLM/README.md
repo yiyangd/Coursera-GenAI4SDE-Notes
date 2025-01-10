@@ -109,7 +109,8 @@ Q4. Which prompting best practices are being used in the following prompt? Selec
 Q5. Which of the following prompts would be most likely to produce matplotlib code to generate an interactive pie chart for a website dashboard?
 - [ ] Create a pie chart for a website
 - [x] You are an expert in building interactive dashboards for websites with deep familiarity of the matplotlib library in python. Create an interactive piechart that will be included in a website dashboard.
+  - This prompt includes important details, like the fact the piechart will be hosted on a website and should be interactive, assigns an expert role and specifies a speciality in matplotlib, so this prompt would be very likely to result in the code you want.
 - [ ] As an expert in interactive dashboard development, create a piechart visualization in python
 - [ ] Create an interactive piechart for a website dashboard
-  - This prompt includes important details, like the fact the piechart will be hosted on a website and should be interactive, assigns an expert role and specifies a speciality in matplotlib, so this prompt would be very likely to result in the code you want.
+
 
