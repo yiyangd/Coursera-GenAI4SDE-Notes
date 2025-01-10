@@ -1,12 +1,12 @@
 # Course 1. 
-#### Keywords:
+## Keywords:
 - `Prompting best practices for software development`
 - `Assigning an LLM a role or persona`
 
 - Designing data structures for real world deployment at scale
 - Analyzing code with an LLM
 - Pair-coding with an LLM
-#### Skills to Learn:
+## Skills to Learn:
 - [x] Integrate generative AI in development. Learn to use generative AI tools from initial design to deployment, enhancing your efficiency and creativity.  
 将生成式人工智能集成到开发中。学习如何从初步设计到部署阶段使用生成式人工智能工具，以提高效率和创造力。
 
@@ -20,8 +20,8 @@
 了解大型语言模型的工作原理。通过掌握机器学习系统的运作方式，您可以更高效地将其用于支持您的开发工作。
 
 
-### Week 1. Introduction to Generative AI (7 videos, 2 assignments, 2 hours)
+## Week 1. Introduction to Generative AI (7 videos, 2 assignments, 2 hours)
 
-### Week 2. Pair-Coding with an LLM (8 videos, 2 assignments, 2 Labs, 2 hours)
+## Week 2. Pair-Coding with an LLM (8 videos, 2 assignments, 2 Labs, 2 hours)
 
-### Week 3. Leveraging an LLM for Code Analysis (9 videos, 3 assignments, 4 Labs, 5 hours)
+## Week 3. Leveraging an LLM for Code Analysis (9 videos, 3 assignments, 4 Labs, 5 hours)
