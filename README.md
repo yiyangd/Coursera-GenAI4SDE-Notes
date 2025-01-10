@@ -1,7 +1,7 @@
 # Coursera-GenAI4SDE-Notes
 
-Programming assignments and quizzes from all courses in the Coursera 
-Generative AI for Software Development Skill Certificate (https://www.coursera.org/professional-certificates/generative-ai-for-software-development) offered by `DeepLearning.AI`.
+Programming assignments and quizzes from all courses in the [Coursera 
+Generative AI for Software Development Skill Certificate](https://www.coursera.org/professional-certificates/generative-ai-for-software-development) offered by `DeepLearning.AI`.
 
 Instructor: [Laurence Moroney](https://laurencemoroney.com/)
 
