@@ -33,24 +33,24 @@ Instructor: [Laurence Moroney](https://laurencemoroney.com/)
 
 - [x] Leverage LLMs to enhance team collaboration in software development projects.    
 利用大型语言模型（LLMs）提升软件开发项目中的团队协作效率。
-
-
 - [x] Use AI to generate comprehensive tests and clear documentation for your code.    
 使用AI为代码生成全面的测试用例和清晰的文档。
-
-
 - [x] Manage and debug complex software dependencies with AI assistance.  
 借助AI辅助管理和调试复杂的软件依赖关系。
 
 
+#### Week 1. Testing and Debugging
+- Programming Assignment: Identifying and Fixing Bugs in Code Using LLMs
+#### Week 2. Documentation
+- 
+#### Week 3. Dependency Management
+- Programming Assignment: Solving Versioning and Dependency conflicts with an LLM
+
 ### Course 3: AI-Powered Software and System Design
-#### Skills to Learn:
 
-- [x] Design and implement software architectures guided by AI insights.    
-设计并实现由AI洞察指导的软件架构。
 
-- [x] Create and optimize databases from scratch using LLM-assisted techniques.    
-使用LLMs辅助技术从零创建并优化数据库。
-
-- [x] Apply advanced design patterns to improve code quality and maintainability.    
-应用高级设计模式，提高代码质量和可维护性。
+#### Week 1. Data Serialization and Configuration-Driven Development
+#### Week 2. Databases
+- Programming Assignment: Social Network Database
+#### Week 3. Software Design Patterns
+- Lab: Factory Patterns
