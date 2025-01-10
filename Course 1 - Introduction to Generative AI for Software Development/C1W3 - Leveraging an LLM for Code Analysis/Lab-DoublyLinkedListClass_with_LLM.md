@@ -4,7 +4,7 @@ In this lab you'll be working alongside an LLM to update a Linked List class to 
 
 ## Outline
 
-- [Step 1 - Import Necessary Libraries](#Step-1-Import-Necessary-Libraries)
+- [Step 1 - Import Necessary Libraries](#step-1-import-necessary-libraries)
 
 
 ### Step 1 - Import Necessary Libraries
