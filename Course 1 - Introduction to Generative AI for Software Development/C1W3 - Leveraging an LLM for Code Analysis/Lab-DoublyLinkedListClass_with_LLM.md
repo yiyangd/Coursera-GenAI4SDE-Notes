@@ -4,21 +4,18 @@ In this lab you'll be working alongside an LLM to update a Linked List class to 
 
 ## Outline
 
-- [Step 1 - Import Necessary Libraries](#1)
-- [Step 2 - The `Node` and `LinkedList` Classes to Update](#2)
-- [Step 3 - Test Your Classes](#3)
-- [Step 4 - Go Further with Your LLM Prompting Skills](#4)
 
-<a name="1"></a>
+- [Step 1 - Import Necessary Libraries](#step-1---import-necessary-libraries)
+- [Step 2 - The `Node` and `LinkedList` Classes to Update](#step-2---the-node-and-linkedlist-classes-to-update)
+- [Step 3 - Test Classes](#step-3---test-classes)
+- [Step 4 - Go Further with LLM Prompting Skills](#step-4---go-further-with-llm-prompting-skills)
+
+---
+
 ### Step 1 - Import Necessary Libraries
 
+### Step 2 - The `Node` and `LinkedList` Classes to Update
 
+### Step 3 - Test Classes
 
-<a name="2"></a>
-### Step 2 - Import Necessary Libraries
-
-<a name="3"></a>
-### Step 3 - Test Your Classes
-
-<a name="4"></a>
-### Step 4 - Go Further with Your LLM Prompting Skills
+### Step 4 - Go Further with LLM Prompting Skills
