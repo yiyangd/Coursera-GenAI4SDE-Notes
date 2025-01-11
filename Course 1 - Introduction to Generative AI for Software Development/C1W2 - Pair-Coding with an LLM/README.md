@@ -1,5 +1,6 @@
 ### 1. Transformers and code (3 minutes)
-### 2. Generating code with chatbots (8 minutes)
+### 2. Generating code with Chatbots (8 minutes)
+
 ### 3. Iterative prompting (4 minutes)
 ### 4. Giving the LLM feedback (4 minutes)
 
