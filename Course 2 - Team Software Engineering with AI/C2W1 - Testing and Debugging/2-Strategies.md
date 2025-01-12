@@ -68,7 +68,7 @@ When you are done, come back to see how Laurence carried out this conversation.
 
 ---
 
-#### 2
+#### 2. Prompting Best Practices
 Hopefully, you came up with a few ideas.  
 希望您已经有了一些想法。  
 
@@ -80,6 +80,9 @@ In the last course, you practiced using a set of prompting best practices to gui
 
 Here's a quick recap.  
 以下是快速回顾。  
+
+![image](https://github.com/user-attachments/assets/ec77efb9-218f-4ed7-9976-a4bd92ff7fa8)
+
 
 You should always be specific in your prompts and provide details and context about your problem.  
 您应该始终在提示中具体说明问题，并提供详细信息和上下文。  
@@ -96,8 +99,10 @@ Then last, bringing your own expertise into the mix and having that back and for
 With these best practices in mind, here's an example prompt that can help you think through testing strategies for that simple web app.  
 牢记这些最佳实践，以下是一个帮助您思考该简单 Web 应用测试策略的提示示例。  
 
-As an expert software tester who's teaching a new person how to write test cases, can you please analyze this code and provide a set of test cases explaining each one?  
-作为一名正在教新人编写测试用例的软件测试专家，请您分析这段代码并提供一组测试用例，同时解释每个用例。  
+![image](https://github.com/user-attachments/assets/08df9b56-00db-46ca-a90c-959c508fc089)
+
+Prompt: As an expert software tester who's teaching a new person how to write test cases, can you please analyze this code and provide a set of test cases explaining each one?  
+提示词: 作为一名正在教新人编写测试用例的软件测试专家，请您分析这段代码并提供一组测试用例，同时解释每个用例。  
 
 Here's what I got when I used this prompt with GPT.  
 以下是我用 GPT 输入此提示时得到的内容。  
