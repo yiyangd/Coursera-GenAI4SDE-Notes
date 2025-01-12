@@ -17,6 +17,9 @@ Being more familiar with the discipline of software testing as a whole will help
 Without proper testing, you risk releasing software that could fail in unpredictable ways, leading to frustrated users, potential financial losses, or worse.  
 如果没有适当的测试，您可能会发布以不可预测方式失败的软件，这会导致用户沮丧、潜在的财务损失，甚至更严重的后果。  
 
+![image](https://github.com/user-attachments/assets/73426abb-983a-4159-81c0-fd5d6c7832d1)
+
+
 A famous example of a dramatic software failure is the Mars climate orbiter.  
 一个著名的软件失败案例是火星气候探测器事件。  
 
