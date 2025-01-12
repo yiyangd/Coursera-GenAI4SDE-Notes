@@ -145,3 +145,4 @@ LLM 在此建议的测试主要关注功能性，非常典型地代表了您在�
 
 Let's now move on to the next video to take a more detailed look at exploratory testing, and in particular, how you can use an LLM to help you and your colleagues in that process.  
 让我们进入下一个视频，更详细地了解探索性测试，特别是如何使用 LLM 帮助您和您的同事完成这一过程。  
+
