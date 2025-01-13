@@ -141,8 +141,15 @@ At this point, to test yourself, try pausing the video and updating the todo lis
 And once you've done that, go on and update the test case to only pass if it sees the correct error coming back when you try adding that empty task.  
 完成后，继续更新测试用例，只有当尝试添加空任务时收到正确的错误消息时，测试才通过。  
 
+#### Practice
+
+Working with an LLM or doing it yourself, update the code to disallow adding an empty task. Then update the test case for adding an empty task to make sure it responds correctly when trying to add an empty task.
+
+---
+
 One more thing, it's important to maintain and update your test cases as the application evolves.  
 还有一点，随着应用程序的演变，维护和更新测试用例非常重要。  
+
 
 Whenever new features are added or existing ones are modified, you should write new tests or update existing ones to cover these changes.  
 每当添加新功能或修改现有功能时，您都应该编写新测试或更新现有测试以涵盖这些变化。  
