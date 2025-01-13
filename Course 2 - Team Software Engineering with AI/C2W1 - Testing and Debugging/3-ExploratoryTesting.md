@@ -164,11 +164,13 @@ In this prompt, I assigned the LLM two roles: a software engineer and a tester, 
 Then, if I include the code for it to analyze, we'll see how the model responded.  
 然后，如果我提供代码供其分析，我们将看到模型的响应。  
 
+#### Responses
+
 Let's take a look at what ChatGPT came back with.  
 让我们看看 ChatGPT 的反馈结果。  
 
-Found a number of issues and suggested some potential improvements.  
-它发现了一些问题并建议了一些潜在的改进。  
+ChatGPT found a number of issues and suggested some potential improvements.  
+ChatGPT发现了一些问题并建议了一些潜在的改进。  
 
 For example, one of them, global variable usage, I have a global list `tasks`, which could cause issues if the module is used multiple times or in a multi-threaded environment.  
 例如，其中一个问题是全局变量的使用。我有一个全局列表 `tasks`，如果模块被多次使用或在多线程环境中运行，这可能会引发问题。  
