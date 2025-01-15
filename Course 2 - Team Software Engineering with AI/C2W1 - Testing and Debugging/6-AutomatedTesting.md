@@ -111,6 +111,13 @@ Here, you're asking the model to bring expert-level pytest knowledge to the tabl
 Run this, and GPT should return some nice test code for you.  
 运行后，GPT 应该会为您返回一些优秀的测试代码。  
 
+---
+#### Practice:
+Using the updated todo list code from the last video that disallows adding an empty list (or the tasks3.py script in the downloads for this video), work with an LLM to implement a set of pytest tests. Have the LLM write the code for you, and try it out in the Coursera lab environement, or google colab, or on your own machine. 
+
+If you aren’t sure how to use pytest, you can ask the LLM for instructions. Laurence will also walk through how to do this in the next section of the video.
+---
+
 Let's take a look at what it created for me.  
 让我们看看它为我生成了什么。  
 
